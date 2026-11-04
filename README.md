@@ -192,3 +192,17 @@ deployment/            Spaces configuration and blockers
 ## Release and Attribution
 
 This repository adapts the existing Plan B retrieval application and preserves previous local experiments. It excludes the unrelated Fanar-Diwan generation project. No source-data or pretrained-model ownership is claimed. No software license has been assigned on the owner's behalf. Consult upstream terms and resolve rights before redistribution.
+
+
+## Quick navigation
+
+- [Arabic Gradio app](app.py)
+- [Retrieval engine](src/engine.py)
+- [Project notebook](notebooks/Arabic_Poetry_Retrieval.ipynb)
+- [Evaluation](src/evaluation.py)
+- [Verification notes](VERIFICATION.md)
+- [Data access and rights](data/README.md)
+- [Dependencies](requirements.txt)
+- [Tests](tests)
+
+[View the portfolio project directory](https://github.com/altayariyasser)
