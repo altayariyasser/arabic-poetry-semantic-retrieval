@@ -1,0 +1,590 @@
+[
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0001",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0004",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0025",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0115",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0121",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0125",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0143",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0161",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0162",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0172",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0191",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0213",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0217",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0313",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0324",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0339",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0340",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0349",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0354",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0369",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0376",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0378",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0396",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0399",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0414",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0447",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0473",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0478",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1005",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1011",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1029",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1062",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1125",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1155",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1170",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1192",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1209",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1216",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1234",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1237",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1245",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1291",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1298",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1308",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1334",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1336",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1342",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1347",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1369",
+    "grade": 4,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1376",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1408",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1409",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1415",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1418",
+    "grade": 4,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1419",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1488",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1495",
+    "grade": 4,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1505",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1511",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1514",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1517",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1520",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1529",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1532",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1543",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1559",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1580",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1585",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1586",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1588",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1640",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1658",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1666",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1708",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1720",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1758",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1759",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1776",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1782",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1814",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1860",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1877",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1975",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1984",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of actual verse halves, no human review",
+    "uncertainty": "Source context, transcription, and meter are not authenticated by this relevance assessment."
+  }
+]

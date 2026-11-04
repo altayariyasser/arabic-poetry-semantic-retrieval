@@ -1,0 +1,758 @@
+[
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0028",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0046",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0077",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0116",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0200",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0222",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0258",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0368",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0388",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0398",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0468",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_00",
+    "pair_id": "ASH3000_0482",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0512",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0521",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0530",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0579",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0600",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0715",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0822",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0825",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0843",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0864",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0918",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0932",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0970",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_0993",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_01",
+    "pair_id": "ASH3000_1000",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1020",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1031",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1044",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1073",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1080",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1095",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1113",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1141",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1144",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1157",
+    "grade": 4,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1211",
+    "grade": 4,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1248",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1401",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1405",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_02",
+    "pair_id": "ASH3000_1473",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1502",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1513",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1522",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1558",
+    "grade": 4,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1560",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1573",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1638",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1656",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1718",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1757",
+    "grade": 3,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1799",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1819",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_03",
+    "pair_id": "ASH3000_1987",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2003",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2051",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2057",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2060",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2071",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2126",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2141",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2160",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2176",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2267",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2297",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2307",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2398",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_04",
+    "pair_id": "ASH3000_2496",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2503",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2531",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2559",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2626",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2706",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2761",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2796",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2844",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2868",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2984",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_05",
+    "pair_id": "ASH3000_2998",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2016",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2031",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2032",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2041",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2059",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2063",
+    "grade": 2,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2066",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2086",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2113",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2129",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2267",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2314",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2456",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_06",
+    "pair_id": "ASH3000_2462",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0001",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0015",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0039",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0061",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0099",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0144",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0207",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0258",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0261",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0286",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0300",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0363",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0471",
+    "grade": 1,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  },
+  {
+    "query_id": "new_eval_07",
+    "pair_id": "ASH3000_0475",
+    "grade": 0,
+    "judgment_origin": "GPT-6.1 Sol provisional AI inspection of original halves; same AI authored queries; not human/independent expert",
+    "uncertainty": "Poem context and transcription not independently authenticated in this assessment."
+  }
+]

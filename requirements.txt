@@ -1,0 +1,6 @@
+torch==2.6.0
+transformers==4.48.3
+numpy==2.5.4
+pandas==2.3.3
+gradio==5.49.1
+gradio_client==1.13.3

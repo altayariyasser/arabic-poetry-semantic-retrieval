@@ -1,0 +1,173 @@
+@font-face{font-family:ThmanyahLocal;src:local("Thmanyah");font-display:swap}
+html,body{background:#FAF7F2!important;color:#2E211B!important;color-scheme:light!important}
+.gradio-container{max-width:1120px!important;margin:auto!important;background:#FAF7F2!important;padding:26px 32px 40px!important}
+#poetry-app{direction:rtl;font-family:ThmanyahLocal,"IBM Plex Sans Arabic",Cairo,"Noto Sans Arabic",Tahoma,Arial,sans-serif!important;color:#2E211B;color-scheme:light;min-width:0}
+#poetry-app footer{display:none}#poetry-app .app-header{padding:24px 12px 30px;border-bottom:1px solid #DDCBB7;margin-bottom:24px;text-align:center;color:#2E211B;background:#FAF7F2}
+#poetry-app .app-header h1{font-family:inherit;font-size:clamp(25px,3vw,36px);font-weight:600;line-height:1.6;margin:0 0 10px;color:#452B1F!important;-webkit-text-fill-color:#452B1F!important;text-wrap:balance}
+#poetry-app .app-header .subtitle{font-size:19px;line-height:1.9;color:#6E4934!important;margin:0 0 12px}#poetry-app .app-header .description{font-size:15px;line-height:2;color:#69564B!important;max-width:780px;margin:auto}
+#poetry-tabs{min-width:0}#poetry-tabs .tab-nav{border-bottom-color:#DDCBB7!important;gap:12px}#poetry-tabs .tab-nav button{font-family:inherit!important;color:#69564B!important;background:#FAF7F2!important;font-size:16px!important;padding:12px 18px!important;border-radius:7px 7px 0 0!important}
+#poetry-tabs .tab-nav button[aria-selected="true"],#poetry-tabs .tab-nav button.selected{color:#452B1F!important;background:#F1E8DA!important;border-bottom:3px solid #452B1F!important;font-weight:600!important}
+#poetry-tabs .tab-nav button:hover{color:#452B1F!important;background:#F1E8DA!important}#poetry-tabs .tab-nav button:focus-visible{outline:2px solid #452B1F!important;outline-offset:-3px}
+#retrieval-panel{background:#F1E8DA!important;border:1px solid #DDCBB7!important;border-radius:14px!important;padding:24px!important;margin:20px 0!important;gap:18px!important;min-width:0}
+#biography,#genre-select{background:#FFFFFF!important;border-color:#DDCBB7!important;border-radius:9px!important;min-width:0!important}
+#biography label,#genre-select label,#biography .label-wrap,#genre-select .label-wrap{color:#2E211B!important;background:#FFFFFF!important;font-family:inherit!important;font-size:16px!important}
+#biography textarea,#genre-select input{color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;background:#FFFFFF!important;direction:rtl;text-align:right;font-family:inherit!important;font-size:17px!important;line-height:2!important;caret-color:#452B1F!important}
+#biography textarea::placeholder,#genre-select input::placeholder{color:#69564B!important;-webkit-text-fill-color:#69564B!important;opacity:1!important}
+#biography textarea:focus,#genre-select input:focus{outline:2px solid #452B1F!important;outline-offset:-2px;box-shadow:0 0 0 3px #DDCBB7!important}
+#genre-select [role="listbox"],#genre-select .options{background:#FFFFFF!important;color:#2E211B!important;border-color:#6E4934!important}
+#genre-select [role="option"],#genre-select .options li{color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;background:#FFFFFF!important;font-family:inherit!important;font-size:16px!important;opacity:1!important}
+#genre-select [role="option"]:hover,#genre-select .options li:hover{background:#F1E8DA!important;color:#452B1F!important}
+#genre-select [aria-selected="true"],#genre-select .options li.selected{background:#F1E8DA!important;color:#452B1F!important;-webkit-text-fill-color:#452B1F!important;font-weight:600!important}
+#search-button{min-height:53px;background:#452B1F!important;color:#FFFFFF!important;-webkit-text-fill-color:#FFFFFF!important;border:1px solid #452B1F!important;border-radius:8px!important;font-family:inherit!important;font-weight:600!important;font-size:17px!important;transition:background .18s,box-shadow .18s}
+#search-button:hover{background:#6E4934!important;color:#FFFFFF!important;border-color:#6E4934!important}#search-button:active{background:#452B1F!important}#search-button:focus-visible{outline:3px solid #6E4934!important;outline-offset:3px}
+#search-button:disabled{opacity:1!important;color:#69564B!important;-webkit-text-fill-color:#69564B!important;background:#F1E8DA!important;border-color:#6E4934!important;cursor:wait}
+#poetry-app .input-hint{color:#69564B!important;font-size:14px;line-height:1.9;margin:0 0 10px;background:#FAF7F2}
+#poetry-results{background:#FAF7F2!important;min-width:0!important;border:0!important;overflow:visible!important;color:#2E211B!important}
+/* These selectors own the output markup. Explicit descendant colors defeat inherited dark-mode prose styles. */
+#poetry-results .poetry-card{background:#FFFFFF!important;color:#2E211B!important;border:1px solid #DDCBB7;border-radius:13px;padding:24px 28px;margin:18px 0;box-shadow:0 5px 18px #452b1f0a;min-width:0;overflow-wrap:anywhere}
+#poetry-results .poetry-card :is(h2,h3,p,span,strong,summary,a,div),#poetry-results .notice :is(h2,p,span){color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;opacity:1}
+#poetry-results .card-heading{display:flex;justify-content:space-between;align-items:center;gap:16px;border-bottom:1px solid #DDCBB7;padding-bottom:15px;margin-bottom:18px}
+#poetry-results .card-heading h2{font-size:17px;font-weight:600;line-height:1.7;margin:0;color:#452B1F!important;-webkit-text-fill-color:#452B1F!important}
+#poetry-results .genre-label{font-size:14px;line-height:1.7;background:#F1E8DA;border-radius:5px;padding:4px 12px}
+#poetry-results .bayt{padding:12px 0 20px;background:#FFFFFF!important;color:#2E211B!important;display:flex;flex-direction:column;gap:8px;text-align:center;min-width:0}
+#poetry-results .poetry-card .bayt-line{font-family:ThmanyahLocal,"Noto Naskh Arabic","Traditional Arabic",Tahoma,serif!important;font-size:clamp(26px,2.7vw,34px)!important;font-weight:400!important;line-height:2!important;white-space:normal!important;overflow-wrap:anywhere!important;word-break:normal!important;margin:0!important;padding:1px 0;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;text-shadow:none!important;max-width:100%}
+#poetry-results .card-meta{border-top:1px solid #DDCBB7;padding-top:14px;display:flex;gap:8px 24px;flex-wrap:wrap;align-items:center;font-size:15px;line-height:1.9}
+#poetry-results .card-meta p{margin:0}#poetry-results .card-meta span{color:#69564B!important;-webkit-text-fill-color:#69564B!important}
+#poetry-results .poetry-card a{color:#6E4934!important;-webkit-text-fill-color:#6E4934!important;text-decoration:underline!important;text-underline-offset:4px}
+#poetry-results .poetry-card a:hover,#poetry-results .poetry-card a:visited{color:#452B1F!important;-webkit-text-fill-color:#452B1F!important}#poetry-results a:focus-visible{outline:2px solid #452B1F!important;outline-offset:3px;border-radius:2px}
+#poetry-results .score{background:#F1E8DA!important;border-radius:7px;padding:12px 16px;margin-top:17px;font-size:15px;line-height:1.9}#poetry-results .score p{margin:0}#poetry-results .score .score-note{font-size:14px;color:#69564B!important;-webkit-text-fill-color:#69564B!important}
+#poetry-results .ai-description{background:#FAF7F2;border-top:1px solid #DDCBB7;margin-top:17px;padding:13px 15px;border-radius:7px;font-size:14px;line-height:2}#poetry-results .ai-description summary{cursor:pointer;font-weight:500;padding:3px 0}#poetry-results .ai-description summary:focus-visible{outline:2px solid #452B1F;outline-offset:3px}
+#poetry-results .notice{background:#F1E8DA!important;color:#2E211B!important;border:1px solid #DDCBB7;border-radius:11px;padding:30px;text-align:center;font-size:16px;line-height:2;margin:12px 0}
+#poetry-results .notice h2{font-size:21px;font-weight:600;margin:0 0 12px}#poetry-results .notice p{margin:0}#poetry-results .notice.error{border-color:#6E4934}
+#poetry-results .loading::before{content:"";display:block;width:22px;height:22px;border:3px solid #DDCBB7;border-top-color:#452B1F;border-radius:50%;margin:0 auto 14px;animation:turn .8s linear infinite}
+#poetry-results .results-note,#poetry-results .provenance-note{font-size:14px;line-height:2;color:#69564B!important;-webkit-text-fill-color:#69564B!important;background:#FAF7F2!important;margin:10px 0}
+#poetry-results [role="progressbar"],#poetry-results [role="status"]{color:#452B1F!important}#poetry-results .progress-text{color:#452B1F!important;background:#F1E8DA!important}
+#poetry-app .info-section{background:#FFFFFF;color:#2E211B!important;border:1px solid #DDCBB7;border-radius:12px;margin:20px 0;padding:24px;font-size:16px;line-height:2;max-width:100%;overflow-wrap:anywhere}
+#poetry-app .info-section h2{font-size:22px;font-weight:600;color:#452B1F!important;margin:0 0 14px}#poetry-app .info-section p{color:#69564B!important;margin:12px 0}
+#poetry-app .app-footer{font-size:13px;line-height:1.9;color:#69564B!important;text-align:center;padding-top:22px;border-top:1px solid #DDCBB7;margin-top:20px}
+@keyframes turn{to{transform:rotate(360deg)}}
+@media(max-width:700px){.gradio-container{padding:16px 14px 28px!important}#poetry-app .app-header{padding:15px 0 22px}#poetry-app .app-header h1{font-size:26px}#poetry-app .app-header .subtitle{font-size:17px}#retrieval-panel{padding:16px!important}#poetry-tabs .tab-nav{gap:4px}#poetry-tabs .tab-nav button{font-size:14px!important;padding:11px 9px!important}#poetry-results .poetry-card{padding:18px 15px}#poetry-results .card-meta{flex-direction:column;align-items:stretch;gap:7px}#poetry-results .bayt-line{font-size:27px!important}#poetry-results .notice{padding:23px 16px}#poetry-app .info-section{padding:19px;font-size:15px}}
+@media(prefers-reduced-motion:reduce){#poetry-app *{animation:none!important;transition:none!important}}
+
+@font-face{font-family:OutfitLocal;src:local("Outfit");font-display:swap}
+.gradio-container{max-width:1280px!important;padding:12px 38px 28px!important;overflow-x:clip}
+#poetry-app{gap:0!important}#poetry-app .taste-nav{display:flex;justify-content:space-between;align-items:center;gap:25px;min-height:82px;margin-bottom:16px;color:#452B1F;background:#FAF7F2}
+#poetry-app .taste-brand{font-family:"Traditional Arabic",serif;font-size:39px;font-weight:700;color:#452B1F!important;text-decoration:none!important;display:flex;align-items:center;gap:17px;line-height:1.3}
+#poetry-app .taste-brand span{font-family:Tahoma,sans-serif;font-size:11px;font-weight:400;color:#69564B;border-right:1px solid #DDCBB7;padding-right:17px}
+#poetry-app .taste-nav>div{display:flex;gap:30px}#poetry-app .taste-nav>div a{font-size:14px;color:#69564B!important;text-decoration:none!important;padding:8px 0;transition:color .2s}#poetry-app .taste-nav>div a:hover{color:#452B1F!important;text-decoration:underline!important;text-underline-offset:6px}
+#poetry-app .nav-english{font-family:OutfitLocal,Arial,sans-serif;font-size:11px;letter-spacing:.7px;color:#69564B;direction:ltr}
+#poetry-app .taste-hero{position:relative;isolation:isolate;overflow:hidden;background:#452B1F;border-radius:17px;padding:50px 28px 46px;color:#FAF7F2;text-align:center;box-shadow:0 15px 38px #452b1f12}
+#poetry-app .hero-engraving{position:absolute;width:100%;height:100%;inset:0;z-index:-1;pointer-events:none;opacity:.8;transform-origin:center}
+#poetry-app .hero-content{position:relative;margin:auto;max-width:1120px}
+#poetry-app .taste-hero h1{font-family:ThmanyahLocal,"Traditional Arabic",Tahoma,serif!important;font-size:clamp(37px,4.7vw,59px)!important;line-height:1.38;font-weight:700;max-width:1120px;width:100%;margin:0 auto 17px;color:#FAF7F2!important;-webkit-text-fill-color:#FAF7F2!important;text-wrap:balance}
+#poetry-app .inline-art{width:73px;height:32px;display:inline-block;vertical-align:middle;border-radius:30px;overflow:hidden;margin-right:10px;border:1px solid #A7754F;background:#6E4934}
+#poetry-app .inline-art svg{width:100%;height:100%}
+#poetry-app .taste-hero p{color:#F1E8DA!important;-webkit-text-fill-color:#F1E8DA!important;font-size:16px;line-height:1.9;margin:0 auto 24px;max-width:750px}
+#poetry-app .hero-actions{display:flex;justify-content:center;gap:12px;flex-wrap:wrap;margin:0 0 22px}
+#poetry-app .hero-actions a,#poetry-app .footer-action{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:10px 25px;border-radius:6px;font-size:14px;font-weight:600;text-decoration:none!important;transition:transform .25s,box-shadow .25s,background .25s}
+#poetry-app .hero-primary{background:#FAF7F2;color:#452B1F!important;-webkit-text-fill-color:#452B1F!important;border:1px solid #FAF7F2}
+#poetry-app .hero-secondary{background:#452B1F;color:#FAF7F2!important;-webkit-text-fill-color:#FAF7F2!important;border:1px solid #DDCBB7}
+#poetry-app .hero-actions a:hover{transform:translateY(-3px);box-shadow:0 7px 22px #2e211b33}#poetry-app .hero-primary:hover{background:#F1E8DA}#poetry-app .hero-secondary:hover{background:#6E4934}
+#poetry-app .hero-footnote{font-size:12px;color:#F1E8DA!important;-webkit-text-fill-color:#F1E8DA!important;display:block;line-height:1.8}
+#poetry-app .search-title{display:flex;align-items:end;justify-content:space-between;gap:25px;margin:42px 0 8px;padding:0 8px;scroll-margin-top:25px}
+#poetry-app .search-title h2{font-family:"Traditional Arabic",serif;font-size:33px;font-weight:700;line-height:1.5;color:#452B1F;margin:0 0 6px}
+#poetry-app .search-title p{font-size:14px;line-height:1.9;color:#69564B;margin:0}#poetry-app .search-title>span{font-family:"Traditional Arabic",serif;font-size:22px;color:#6E4934;white-space:nowrap;padding-bottom:3px}
+#retrieval-panel{margin:20px 0 12px!important;padding:28px!important;border-radius:14px!important;border:1px solid #DDCBB7!important;box-shadow:0 6px 24px #452b1f08;background:#F1E8DA!important}
+#biography,#genre-select{border:0!important;border-radius:9px!important}#biography textarea{min-height:155px!important}
+#search-button{min-height:56px!important;font-size:16px!important;box-shadow:0 5px 14px #452b1f12;transition:background .2s,transform .2s,box-shadow .2s}
+#search-button:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 8px 20px #452b1f21}#search-button:active:not(:disabled){transform:translateY(0)}
+#poetry-tabs>.tab-nav{margin-top:20px!important;margin-bottom:4px!important;justify-content:flex-start;gap:27px!important}#poetry-tabs .tab-nav button{background:transparent!important;border-radius:0!important;font-size:14px!important;padding:12px 3px!important}
+#poetry-tabs .tab-nav button.selected,#poetry-tabs .tab-nav button[aria-selected="true"]{background:transparent!important;color:#452B1F!important;border-bottom:2px solid #452B1F!important}
+#poetry-results .notice{background:#F1E8DA!important;border:1px solid #DDCBB7!important;padding:33px 24px!important;border-radius:11px!important;min-height:150px}
+#poetry-results .notice h2{font-family:"Traditional Arabic",serif!important;font-size:28px!important;line-height:1.6!important;color:#452B1F!important;-webkit-text-fill-color:#452B1F!important}
+#poetry-results .notice p{font-size:14px!important;max-width:730px;margin:auto;line-height:2}
+#poetry-results .results-list{padding:0 2px}#poetry-results .results-note{margin-top:22px!important;font-size:13px!important}
+#poetry-results .poetry-card{padding:25px 32px!important;border-radius:12px!important;box-shadow:0 7px 24px #452b1f08;margin:20px 0!important;transition:box-shadow .3s,border-color .3s}
+#poetry-results .poetry-card:hover{box-shadow:0 10px 28px #452b1f12;border-color:#A7754F}
+#poetry-results .poetry-card:first-of-type{border-top:3px solid #6E4934;background:#FAF7F2!important}
+#poetry-results .poetry-card:first-of-type .bayt{background:#FAF7F2!important}
+#poetry-results .card-heading{border-bottom:0!important;margin-bottom:8px!important;padding-bottom:4px!important}
+#poetry-results .card-heading h2{font-size:15px!important}#poetry-results .genre-label{background:#F1E8DA!important;border-radius:4px!important;font-size:13px!important}
+#poetry-results .bayt{padding:18px 0 26px!important}#poetry-results .poetry-card .bayt-line{font-size:clamp(28px,3vw,38px)!important;line-height:1.95!important;font-weight:400!important}
+#poetry-results .card-meta{font-size:14px!important;line-height:2!important;gap:6px 25px!important}#poetry-results .score{margin-top:17px!important;padding:11px 16px!important;border-radius:6px!important}
+#poetry-results .ai-description{background:#FAF7F2!important;font-size:13px!important;margin-top:14px!important}#poetry-results .provenance-note{font-size:12px!important}
+#poetry-app .taste-notes{margin:80px 0 65px;scroll-margin-top:30px}#poetry-app .taste-notes>h2{font-family:"Traditional Arabic",serif;font-size:34px;line-height:1.5;margin:0 0 25px;color:#452B1F;text-wrap:balance}
+#poetry-app .note-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));grid-auto-flow:dense;border-top:1px solid #DDCBB7;border-bottom:1px solid #DDCBB7;gap:0}
+#poetry-app .note-grid article{padding:24px 25px;border-left:1px solid #DDCBB7;min-width:0}#poetry-app .note-grid article:first-child{padding-right:0}#poetry-app .note-grid article:last-child{border-left:0}
+#poetry-app .note-grid h3{font-size:16px;font-weight:600;color:#452B1F;margin:0 0 12px}#poetry-app .note-grid p{font-size:14px;line-height:2;color:#69564B;margin:0;max-width:310px}
+#poetry-app .reading-room{display:grid;grid-template-columns:1fr 1.6fr;gap:60px;align-items:center;margin:0 0 85px;padding:40px;border-radius:14px;background:#F1E8DA;overflow:hidden;min-width:0}
+#poetry-app .reading-copy h2{font-family:"Traditional Arabic",serif;font-size:41px;line-height:1.35;color:#452B1F;margin:0 0 19px}
+#poetry-app .reading-copy p{font-size:13px;line-height:2;color:#69564B;margin:0 0 24px;max-width:310px}
+#poetry-app .folio-stage{position:relative;isolation:isolate;min-width:0;padding:12px 0 18px}
+#poetry-app .back-folio{position:absolute;inset:9px 0 15px;background:#DDCBB7;border:1px solid #A7754F;border-radius:7px;z-index:-1;pointer-events:none}
+#poetry-app .back-one{transform:rotate(3deg)}#poetry-app .back-two{transform:rotate(-3deg);background:#F1E8DA}
+#poetry-app .folio-display{position:relative;border:1px solid #DDCBB7;border-radius:7px;padding:30px 22px;background:#FAF7F2;box-shadow:0 10px 25px #452b1f0b;min-height:265px;display:flex;align-items:center;justify-content:center}
+#poetry-app .folio{width:100%;animation:folio-in .35s ease-out}#poetry-app .folio[hidden]{display:none!important}
+#poetry-app .folio-genre{font-size:12px;color:#6E4934;text-align:center;margin:0 0 18px}
+#poetry-app .folio blockquote{display:flex;flex-direction:column;gap:8px;font-family:"Traditional Arabic",serif;font-size:30px;font-weight:400;line-height:1.8;text-align:center;margin:0;border:0;color:#2E211B}
+#poetry-app .folio blockquote span{color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;overflow-wrap:anywhere}
+#poetry-app .folio-credit{font-size:12px;line-height:1.9;color:#69564B;text-align:center;margin:22px 0 0}#poetry-app .folio-credit a{color:#6E4934!important;text-decoration:underline;text-underline-offset:4px}
+#poetry-app .folio-controls{display:flex;align-items:center;gap:20px}#poetry-app .folio-controls button{font-family:inherit;font-size:12px;background:transparent;border:1px solid #6E4934;border-radius:5px;padding:7px 15px;color:#452B1F;cursor:pointer;transition:background .2s,transform .2s}#poetry-app .folio-controls button:hover{background:#FAF7F2;transform:translateY(-2px)}#poetry-app .folio-position{font-size:12px;direction:ltr;color:#69564B}
+#poetry-app .genre-marquee{overflow:hidden;border-top:1px solid #DDCBB7;border-bottom:1px solid #DDCBB7;padding:18px 0;direction:ltr;margin-bottom:70px;position:relative}
+#poetry-app .genre-marquee>div{display:flex;align-items:center;gap:38px;width:max-content;animation:genre-flow 40s linear infinite}#poetry-app .genre-marquee:hover>div,#poetry-app .genre-marquee:focus-within>div{animation-play-state:paused}
+#poetry-app .genre-marquee span{font-family:"Traditional Arabic",serif;font-size:31px;color:#6E4934;line-height:1.3}#poetry-app .genre-marquee i{width:4px;height:4px;border-radius:50%;background:#A7754F}
+#poetry-app .taste-action{display:flex;justify-content:space-between;align-items:center;gap:40px;margin:0 0 55px;padding:0 8px}
+#poetry-app .taste-action h2{font-family:"Traditional Arabic",serif;font-size:39px;line-height:1.35;color:#452B1F;margin:0 0 12px}#poetry-app .taste-action p{font-size:14px;line-height:1.9;color:#69564B;margin:0}
+#poetry-app .footer-action{color:#FFFFFF!important;-webkit-text-fill-color:#FFFFFF!important;background:#452B1F;border:1px solid #452B1F;flex-shrink:0}#poetry-app .footer-action:hover{transform:translateY(-2px);background:#6E4934}
+#poetry-app .taste-footer{display:flex;justify-content:space-between;gap:25px;border-top:1px solid #DDCBB7;padding:22px 0 4px;color:#69564B;font-size:12px;line-height:1.8}
+#poetry-app .taste-nav a:focus-visible,#poetry-app .hero-actions a:focus-visible,#poetry-app .footer-action:focus-visible,#poetry-app .folio-controls button:focus-visible{outline:2px solid #A7754F;outline-offset:4px}
+@keyframes genre-flow{to{transform:translateX(-50%)}}@keyframes folio-in{from{opacity:.5;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:900px){#poetry-app .nav-english{display:none}#poetry-app .reading-room{gap:30px;padding:30px}#poetry-app .folio blockquote{font-size:27px}}
+@media(max-width:600px){.gradio-container{padding:6px 15px 25px!important}#poetry-app .taste-nav{min-height:65px;margin-bottom:9px;gap:12px}#poetry-app .taste-brand{font-size:33px}#poetry-app .taste-brand span{display:none}#poetry-app .taste-nav>div{gap:18px}#poetry-app .taste-nav>div a{font-size:12px}#poetry-app .taste-hero{padding:35px 15px 31px;border-radius:11px}#poetry-app .taste-hero h1{font-size:37px!important;line-height:1.35!important}#poetry-app .inline-art{width:47px;height:25px;margin-right:5px}#poetry-app .taste-hero p{font-size:13px;line-height:2;max-width:300px}#poetry-app .hero-actions{gap:9px}#poetry-app .hero-actions a{min-height:42px;font-size:12px;padding:9px 14px}#poetry-app .hero-footnote{font-size:11px}#poetry-app .search-title{margin-top:29px;align-items:start;flex-direction:column;gap:7px;padding:0 3px}#poetry-app .search-title h2{font-size:29px}#poetry-app .search-title p{font-size:13px}#poetry-app .search-title>span{display:none}#retrieval-panel{padding:17px!important}#poetry-tabs>.tab-nav{gap:18px!important}#poetry-tabs .tab-nav button{font-size:13px!important}#poetry-results .poetry-card{padding:20px 15px!important}#poetry-results .poetry-card .bayt-line{font-size:28px!important}#poetry-app .taste-notes{margin:55px 0 40px}#poetry-app .taste-notes>h2{font-size:29px}#poetry-app .note-grid{grid-template-columns:1fr}#poetry-app .note-grid article{padding:19px 0;border-left:0;border-bottom:1px solid #DDCBB7}#poetry-app .note-grid article:last-child{border-bottom:0}#poetry-app .note-grid p{max-width:none;font-size:13px}#poetry-app .reading-room{grid-template-columns:1fr;gap:25px;padding:25px 21px;margin-bottom:50px}#poetry-app .reading-copy h2{font-size:33px}#poetry-app .reading-copy h2 br{display:none}#poetry-app .reading-copy p{max-width:none}#poetry-app .folio-display{padding:28px 14px;min-height:265px}#poetry-app .folio blockquote{font-size:27px}#poetry-app .genre-marquee{margin-bottom:45px}#poetry-app .taste-action{align-items:start;flex-direction:column;gap:21px;margin-bottom:40px}#poetry-app .taste-action h2{font-size:32px}#poetry-app .taste-action p{font-size:13px}#poetry-app .taste-footer{flex-direction:column;gap:8px;font-size:11px}}
+@media(prefers-reduced-motion:reduce){#poetry-app .genre-marquee>div,#poetry-app .folio{animation:none!important}#poetry-app .back-folio{transform:none}}
+
+/* Tonal adaptation of the 7870 palette: lifted mocha, taupe, sand and walnut. */
+html,body{background:#5C4B40!important;background-image:linear-gradient(145deg,#665347 0%,#5C4B40 55%,#55443A 100%)!important;color:#F1E3CD!important}
+.gradio-container{background:transparent!important}
+#poetry-app{color:#F1E3CD!important}
+#poetry-app .taste-nav{background:transparent!important;color:#F1E3CD!important}
+#poetry-app .taste-brand,#poetry-app .taste-brand span,#poetry-app .taste-nav>div a,#poetry-app .nav-english{color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#poetry-app .taste-brand span{border-color:#A88D72}
+#poetry-app .taste-nav>div a:hover{color:#F1E3CD!important}
+#poetry-app .taste-hero{background:linear-gradient(125deg,#6E5341,#594233 65%,#49362B)!important;box-shadow:0 18px 40px #2E211B22}
+#poetry-app .taste-hero h1,#poetry-app .taste-hero p,#poetry-app .hero-footnote{color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#poetry-app .hero-primary{background:#DCC6A8!important;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;border-color:#DCC6A8!important}
+#poetry-app .hero-primary:hover{background:#E4D4BC!important}
+#poetry-app .hero-secondary{background:#594233!important;border-color:#DCC6A8!important;color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#poetry-app .inline-art{background:#6E4934;border-color:#BCA68E}
+#poetry-app .search-title h2,#poetry-app .taste-notes>h2,#poetry-app .note-grid h3,#poetry-app .taste-action h2{color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#poetry-app .search-title p,#poetry-app .search-title>span,#poetry-app .note-grid p,#poetry-app .taste-action p,#poetry-app .taste-footer{color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#retrieval-panel{background:linear-gradient(115deg,#C4AE94,#BCA68E)!important;border-color:#A88D72!important;box-shadow:0 9px 25px #2E211B14}
+#biography,#genre-select,#biography label,#genre-select label,#biography .label-wrap,#genre-select .label-wrap{background:#E4D4BC!important;color:#2E211B!important}
+#biography textarea,#genre-select input{background:#E4D4BC!important;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important}
+#biography textarea::placeholder,#genre-select input::placeholder{color:#574435!important;-webkit-text-fill-color:#574435!important}
+#genre-select [role="listbox"],#genre-select .options,#genre-select [role="option"],#genre-select .options li{background:#E4D4BC!important;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important}
+#genre-select [role="option"]:hover,#genre-select .options li:hover,#genre-select [aria-selected="true"],#genre-select .options li.selected{background:#C8AF8F!important;color:#2E211B!important}
+#search-button{color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#search-button:disabled{background:#C8AF8F!important;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important}
+#poetry-app .input-hint,#poetry-results,#poetry-results .results-note,#poetry-results .provenance-note{background:transparent!important;color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#poetry-tabs .tab-nav{border-color:#A88D72!important}
+#poetry-tabs .tab-nav button{background:transparent!important;color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important}
+#poetry-tabs .tab-nav button.selected,#poetry-tabs .tab-nav button[aria-selected="true"]{background:#C8AF8F!important;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important;border-bottom-color:#452B1F!important;border-radius:6px 6px 0 0!important}
+#poetry-tabs .tab-nav button:hover{background:#C8AF8F!important;color:#2E211B!important;-webkit-text-fill-color:#2E211B!important}
+#poetry-results .poetry-card,#poetry-results .poetry-card:first-of-type,#poetry-results .bayt,#poetry-results .poetry-card:first-of-type .bayt{background:#DCC6A8!important;border-color:#A88D72!important}
+#poetry-results .poetry-card:nth-of-type(2),#poetry-results .poetry-card:nth-of-type(2) .bayt{background:#D4BDA0!important}
+#poetry-results .card-meta,#poetry-results .card-heading{border-color:#A88D72!important}
+#poetry-results .card-meta span,#poetry-results .score .score-note{color:#452B1F!important;-webkit-text-fill-color:#452B1F!important}
+#poetry-results .poetry-card a,#poetry-results .poetry-card a:hover,#poetry-results .poetry-card a:visited{color:#452B1F!important;-webkit-text-fill-color:#452B1F!important}
+#poetry-results .genre-label,#poetry-results .score{background:#C8AF8F!important;color:#2E211B!important}
+#poetry-results .ai-description{background:#E4D4BC!important;border-color:#A88D72!important}
+#poetry-results .notice{background:linear-gradient(120deg,#DCC6A8,#D4BDA0)!important;border-color:#A88D72!important}
+#poetry-app .info-section{background:#DCC6A8!important;border-color:#A88D72!important}
+#poetry-app .info-section p{color:#452B1F!important}
+#poetry-app .note-grid,#poetry-app .note-grid article,#poetry-app .taste-footer,#poetry-app .genre-marquee{border-color:#A88D72!important}
+#poetry-app .reading-room{background:linear-gradient(120deg,#C4AE94,#BCA68E)!important}
+#poetry-app .reading-copy h2{color:#452B1F!important}#poetry-app .reading-copy p{color:#452B1F!important}
+#poetry-app .folio-display{background:#DCC6A8!important;border-color:#A88D72!important}
+#poetry-app .back-one{background:#B59A7D!important}#poetry-app .back-two{background:#C8AF8F!important}
+#poetry-app .folio-credit,#poetry-app .folio-genre,#poetry-app .folio-credit a,#poetry-app .folio-position{color:#452B1F!important}
+#poetry-app .folio-controls button{color:#452B1F!important;border-color:#6E4934!important}
+#poetry-app .folio-controls button:hover{background:#DCC6A8!important}
+#poetry-app .genre-marquee span{color:#F1E3CD!important}#poetry-app .genre-marquee i{background:#BCA68E}
+#poetry-app .footer-action{background:#452B1F!important;color:#F1E3CD!important;-webkit-text-fill-color:#F1E3CD!important;border-color:#A88D72!important}
+#poetry-app .footer-action:hover{background:#6E4934!important}
