@@ -88,7 +88,7 @@ The release includes saved rankings and text-free ID/grade judgments to reproduc
 
 Python 3.10–3.12; Python 3.12 and the pinned packages were used on the original Windows machine. Use a source checkout because the app loads CSS/JS relative to `app.py`.
 
-Repository creation is pending authenticated GitHub access. The verified clone URL will be inserted after creation; no unverified repository URL is presented as working.
+Repository creation is pending GitHub network access and authentication verification. Outbound API connections were blocked in the preparation environment. The verified clone URL will be inserted after creation; no unverified repository URL is presented as working.
 
 ```bash
 cd arabic-poetry-semantic-retrieval
