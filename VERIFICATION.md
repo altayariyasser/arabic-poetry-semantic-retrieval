@@ -12,4 +12,14 @@ Verified locally on 2026-11-04 using the existing project `.venv`, original auth
 
 Local raw retrieval responses and source-link inventory are in the ignored `.local-verification/` directory. No poetry text or embedding matrices are included in this Git release.
 
-Remaining: browser capture host unavailable, so no real screenshot/GIF was captured. `gh auth status` reported an invalid saved login, but a direct `gh api user` check failed because outbound socket access to `api.github.com:443` is forbidden in this environment. Authentication validity is therefore inconclusive until network access is restored. Upload and rendered README verification remain blocked. The local commit uses the requested GitHub username and its privacy-preserving `altayariyasser@users.noreply.github.com` author address, without changing global Git identity. Hugging Face deployment was not performed: credentials were absent and corpus/index rights remain unresolved. No repository URL or live-demo URL has been verified.
+## Publication follow-up — 2026-11-04
+
+- Reused both prepared commits through a Git bundle in a separate workspace checkout. The original research project and prepared repository were not modified.
+- Reran all six unit tests successfully and reproduced all five saved metric aggregates to the existing 1e-12 tolerance.
+- Started this checkout's real Gradio app on localhost port 7863 with the original authorized external artifacts and pinned cached E5 snapshot. Repeated all six HTTP smoke queries: each returned three sourced candidates. This is an operational check, not final-test evaluation.
+- GitHub CLI authentication succeeded as `altayariyasser` outside the restricted execution sandbox. The earlier invalid-login warning was not proof of invalid credentials; normal sandbox network access failed with WinError 10013.
+- Confirmed the requested remote repository did not exist before creating it privately. Corpus/index rights remain unresolved, so those files and poetry-bearing screenshots remain excluded, including from private uploads. No license was added.
+- Real screenshot capture failed with `foreground window did not report a process id`; the Chrome connector was unavailable. README includes later capture instructions. No fake screenshot was made.
+- README now records one real response using poet names, source references and actual scores while withholding corpus verse text. Raw HTML responses stay in ignored `.local-verification/`.
+
+Push success and final remote commit verification are reported separately in the publication report after execution. No hosted demo or fresh-environment installation is claimed.

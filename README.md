@@ -4,11 +4,13 @@
 
 An Arabic NLP application that retrieves contextually relevant poetic verses from a description and poetic genre using pretrained multilingual E5 embeddings, BM25 and hybrid retrieval.
 
-**Release status:** code-only preparation. The 3,000-record corpus and embedding indexes require separate authorized access. Public live deployment is blocked by unresolved data rights and account access. No live demo URL is claimed.
+**Release scope:** private, code-only repository. The 3,000-record corpus and embedding indexes require separate authorized access and are excluded from Git. Public release and live deployment require resolved redistribution rights. No live demo URL is claimed.
 
 ## Application Demo
 
-The real application uses a brown, cream and white Arabic literary interface. Screenshot capture is pending because the computer/browser capture host was unavailable during preparation. Poetry-bearing screenshots also require reuse clearance before publication. No generated or simulated results are used.
+The real application uses a brown, cream and white Arabic literary interface. Real screenshot capture was attempted, but the Windows capture host returned `foreground window did not report a process id`; the Chrome browser connector was also unavailable. Poetry-bearing screenshots require reuse clearance before publication. No generated or simulated screenshot is used.
+
+To add a screenshot later: run the app with your authorized local bundle, enter an Arabic description, choose a genre, retrieve three results, and capture the actual interface as `assets/demo.png`. Review all displayed poetry and attribution for redistribution permission. Only after clearance, remove `assets/demo.png` from `.gitignore`, add `![Arabic Gradio retrieval demonstration](assets/demo.png)` here, and commit the image.
 
 ## Project Overview
 
@@ -49,6 +51,16 @@ The frozen integrated split ledger has 2,400/300/300 records with 400/50/50 per 
 9. **Evaluation:** reproduce saved provisional pooled metrics; distinguish this from independent retrieval evaluation.
 
 ```mermaid
+flowchart LR
+    U[User Description + Genre] --> P[Preprocessing]
+    P --> R[E5 and BM25 Retrieval]
+    R --> F[RRF Ranking]
+    F --> T[Top 3 Arabic Bayts]
+```
+
+The diagram above shows the implemented hybrid comparison path. The current interface defaults to E5-description ranking; the detailed diagram below makes this distinction explicit.
+
+```mermaid
 flowchart TD
     A[Existing Ashaar source] --> B[Provenance and preprocessing]
     B --> C[Verse / semantic description / genre]
@@ -62,6 +74,20 @@ flowchart TD
     E --> H
     G --> I[Gradio: three sourced candidates]
 ```
+
+## Verified Local Example
+
+Input: `شخص كريم يساعد المحتاجين ويشتهر بحسن الضيافة.` Genre: `مدح`.
+
+The real Gradio API returned the following top-three result metadata on 2026-11-04. Verse text and automatic corpus descriptions are withheld pending redistribution clearance; the running local app displays both hemistichs.
+
+| Rank | Poet as supplied in the record | Cosine similarity | Supplied source |
+|---|---|---:|---|
+| 1 | ابن خلدون | 0.9139 | [Source](https://www.aldiwan.net/poem59510.html) |
+| 2 | الميكالي | 0.8903 | [Source](https://www.aldiwan.net/poem13155.html) |
+| 3 | ابن علوي الحداد | 0.8837 | [Source](https://www.aldiwan.net/poem16840.html) |
+
+These are uncalibrated ranking signals. This operational example is not a relevance benchmark or independent verification of attribution.
 
 ## Evaluation
 
@@ -88,11 +114,15 @@ The release includes saved rankings and text-free ID/grade judgments to reproduc
 
 Python 3.10–3.12; Python 3.12 and the pinned packages were used on the original Windows machine. Use a source checkout because the app loads CSS/JS relative to `app.py`.
 
-Repository creation is pending GitHub network access and authentication verification. Outbound API connections were blocked in the preparation environment. The verified clone URL will be inserted after creation; no unverified repository URL is presented as working.
+Repository: [altayariyasser/arabic-poetry-semantic-retrieval](https://github.com/altayariyasser/arabic-poetry-semantic-retrieval). This repository is private; cloning requires access through your GitHub account.
 
 ```bash
+git clone https://github.com/altayariyasser/arabic-poetry-semantic-retrieval.git
 cd arabic-poetry-semantic-retrieval
-pip install -r requirements.txt
+python -m venv .venv
+# PowerShell: .\.venv\Scripts\Activate.ps1
+# Linux/macOS: source .venv/bin/activate
+python -m pip install -r requirements.txt
 ```
 
 Provide the authorized external artifact bundle described in [data/README.md](data/README.md). Also provide a local snapshot of the exact pretrained E5 revision. Model weights are excluded and the app never downloads them automatically. Hugging Face's `hf download intfloat/multilingual-e5-small --revision 614241f622f53c4eeff9890bdc4f31cfecc418b3` can obtain a snapshot separately where permitted; set the path to its returned snapshot directory.
@@ -121,6 +151,7 @@ Open the local URL printed by Gradio (default port 7860). This is a local develo
 app.py                 Arabic Gradio interface
 src/embedding.py       Pinned local E5 inference and pooling
 src/lexical.py         Arabic normalization and BM25
+src/preprocessing.py   CLI for the existing normalizer
 src/engine.py          Cosine, genre filtering and RRF
 src/rendering.py       Escaped candidate/source markup
 src/evaluation.py      Saved pooled metric reproduction
